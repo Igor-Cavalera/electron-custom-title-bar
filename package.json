@@ -1,0 +1,21 @@
+{
+  "name": "customtitlebar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "start-electron.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^18.1.0",
+    "electron-builder": "^23.0.3"
+  },
+  "dependencies": {
+    "custom-electron-titlebar": "^4.1.0",
+    "electron-reload": "^2.0.0-alpha.1"
+  }
+}
